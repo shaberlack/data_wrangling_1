@@ -8,3 +8,11 @@ output: github_document
 ```{r}
 library(tidyverse)
 ```
+
+Import FAS litters and pups.
+
+```{r}
+litters_df =
+  read_csv("~Data Sci/litters.csv")
+```
+
