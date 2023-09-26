@@ -1,0 +1,10 @@
+---
+title: "Data Manipulation"
+author: "Sarah Haberlack"
+date: "2023-09-26"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+```
